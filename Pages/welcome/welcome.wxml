@@ -1,0 +1,7 @@
+<view  class='container'>
+  <image src='../../img/4.png' class='user-photo'></image>
+  <text  class='user-name'>hello world</text>
+  <view  class='moto-container' bindtap='ontap' >
+     开启小程序之旅
+   </view>
+</view>
